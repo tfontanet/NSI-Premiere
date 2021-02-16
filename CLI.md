@@ -9,8 +9,12 @@ Vous allez apprendre à utiliser l'interface en ligne de commande (ou CLI) de Li
 Tout d'abord, connectez-vous à votre système linux, puis ouvrez un terminal de commande (application Terminal, ou Ctrl+Alt+t avec Ubuntu ou Debian)
 Un terminal apparait, et contient normalement une ligne comme celle-ci :
 
-```shell
-user@machine:~$
+```python
+def toto(a):
+    t = []
+    for i in range(10):
+        t.append(i
+    return t
 ```
 
 Cette ligne apparaîtra systématiquement au début de la zone d'entrée des commandes. Elle vous permet d'identifier rapidement avec quel utilisateur vous êtes connecté, sur quelle machine, et où vous vous situez.
